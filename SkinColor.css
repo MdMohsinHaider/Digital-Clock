@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+    margin:0 ;
+    padding:0;
+}
+#top{
+    background:linear-gradient(rgba(53, 80, 52, 0.738),rgba(88, 67, 67, 0.467));
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+
+#BOX{
+    background:linear-gradient(rgba(53, 80, 52, 0.738),rgba(88, 67, 67, 0.467));
+    margin: 10px;
+    border-radius: 10px;
+    padding: px;
+}
+
+.clock_Box{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: absolute;
+    color: rgb(255, 0, 0);
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size:30px;
+    background: linear-gradient(black,);
+}
