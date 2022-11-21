@@ -14,10 +14,9 @@ body{
 }
 
 #BOX{
-    background:linear-gradient(rgba(53, 80, 52, 0.738),rgba(88, 67, 67, 0.467));
+    background:linear-gradient(rgba(53, 80, 52, 0.738),rgba(88, 67, 67, 0.467),rgba(0, 0, 0, 0.971));
     margin: 10px;
     border-radius: 10px;
-    padding: px;
 }
 
 .clock_Box{
@@ -25,9 +24,8 @@ body{
     font-weight: bold;
     position: absolute;
     color: rgb(255, 0, 0);
-    top: 50%;
+    top: 45%;
     left: 10%;
     right: 10%;
-    font-size:45px;
-    background: linear-gradient(black,);
+    font-size:40px;
 }
