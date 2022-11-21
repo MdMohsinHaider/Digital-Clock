@@ -10,7 +10,7 @@ function displayClock(){
             Meridiem.innerHTML='PM';
         }
         else{
-            Meridiem.innerHTML='PM';
+            Meridiem.innerHTML='AM';
         }
 
     // implementation variables
